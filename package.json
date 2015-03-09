@@ -1,0 +1,24 @@
+{
+  "name": "past",
+  "version": "0.0.1",
+  "description": "A simple opiniated event sourcing library for Node.js that quickly gets you started",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mickhansen/past.js.git"
+  },
+  "keywords": [
+    "event-sourcing",
+    "eventsourcing",
+    "eventstore"
+  ],
+  "author": "Mick Hansen <maker@mhansen.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickhansen/past.js/issues"
+  },
+  "homepage": "https://github.com/mickhansen/past.js"
+}
